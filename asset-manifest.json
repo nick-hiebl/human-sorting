@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/human-sorting/static/css/main.b01693bb.chunk.css",
+    "main.js": "/human-sorting/static/js/main.1cff0971.chunk.js",
+    "main.js.map": "/human-sorting/static/js/main.1cff0971.chunk.js.map",
+    "runtime-main.js": "/human-sorting/static/js/runtime-main.76bed65e.js",
+    "runtime-main.js.map": "/human-sorting/static/js/runtime-main.76bed65e.js.map",
+    "static/js/2.cde95c5c.chunk.js": "/human-sorting/static/js/2.cde95c5c.chunk.js",
+    "static/js/2.cde95c5c.chunk.js.map": "/human-sorting/static/js/2.cde95c5c.chunk.js.map",
+    "index.html": "/human-sorting/index.html",
+    "precache-manifest.49fa5488e59a441b87be1f850b646438.js": "/human-sorting/precache-manifest.49fa5488e59a441b87be1f850b646438.js",
+    "service-worker.js": "/human-sorting/service-worker.js",
+    "static/css/main.b01693bb.chunk.css.map": "/human-sorting/static/css/main.b01693bb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76bed65e.js",
+    "static/js/2.cde95c5c.chunk.js",
+    "static/css/main.b01693bb.chunk.css",
+    "static/js/main.1cff0971.chunk.js"
+  ]
+}
