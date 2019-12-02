@@ -23,14 +23,16 @@ const ListEntry = ({ items, setItems, fields }: ListEntryProps) => {
 
   return (
     <div>
-      <Field value={curr} onChange={setCurr} />
-      <Button onClick={() => {
-        setItems([...items, { id: id(), name: curr }]);
-        setCurr('');
-      }}>
-        Add item
-      </Button>
-      { fields }
+      <div className="input-container">
+        <Field value={curr} onChange={setCurr} />
+        <Button onClick={() => {
+          setItems([...items, { id: id(), name: curr }]);
+          setCurr('');
+        }}>
+          Add item
+        </Button>
+        { fields }
+      </div>
       <table>
         <tbody>
           {items.map(({ id, name }) => (
